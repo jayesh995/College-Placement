@@ -1,4 +1,2 @@
 # College-Placement
-Click on the link:
-[College Placement Blog]([https://medium.com/@jayeshgupta995/sports-analytics-using-sql-3b535466e207](https://medium.com/@jayeshgupta995/college-placement-e6a1618710b4)).
-I have write a blog based on my analyses.
+The MBA college campus wants to improve its placement rate in the near future. Their counselor suggested that they improve by improving their admission procedure. Now the college wants to create specific criteria for admission to the MBA college to enhance the overall placement.
